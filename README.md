@@ -8,3 +8,8 @@ iRED is a disaggregated P4-AQM fully implemented in programmable data plane hard
 ![alt-text](https://github.com/dcomp-leris/iRED_TNSM/blob/main/figs/iRED.jpg)
 
 # Folders
+.
+├── evaluation # files used in the evaluation section
+├── figs # figures
+├── README.md
+└── source-code # iRED source code for TF2
