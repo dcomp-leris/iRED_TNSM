@@ -1,0 +1,3361 @@
+Wasted Time
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 4247345, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21197185, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20961440, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20656418, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20951859, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20338922, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19751298, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 15518566, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20479814, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21048261, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20717462, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20936130, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20883741, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20746150, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20630756, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20532533, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20479813, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19454063, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20400164, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20421617, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20772007, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20715990, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20658274, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20728660, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20648024, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20284464, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20769458, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20366721, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20574098, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20324554, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20348505, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20867251, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20646614, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20406574, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20817117, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20753360, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19792236, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20712977, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20658033, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21255482, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20264779, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20567589, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20780823, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20202865, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20407147, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20436674, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20698022, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20046677, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20778374, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19797210, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20266639, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20688151, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21294347, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20380883, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20530371, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20828207, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21119199, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20018845, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21303064, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20747670, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20536082, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20236879, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20352969, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20450271, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20563858, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20530770, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20360744, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20914768, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19672160, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20613835, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20492394, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20236633, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20220408, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20550730, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21124536, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19989893, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20775620, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20758998, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20330526, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20755201, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20876988, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20605936, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20615563, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20704224, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20975283, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20277121, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20729303, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20459350, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20664336, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20541486, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20140107, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20848852, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20333772, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20923885, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20852351, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20647080, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20174923, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20907831, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20702322, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20479218, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20607795, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19881452, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20326475, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20546205, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20570472, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20440722, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20850599, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19291154, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21273035, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20213017, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20582804, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20531704, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20643108, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20909038, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19712181, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20820229, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20837376, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20152414, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20568726, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20532793, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21382591, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20766382, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20949954, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21070079, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19967049, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20747339, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20093363, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21012334, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20599429, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20458796, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20810884, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20248027, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20436510, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20676562, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20870457, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20362244, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20762300, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20425860, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20129730, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20685566, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21203318, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20245134, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20877127, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20618642, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20522132, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20640444, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20231315, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20921628, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20373808, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19890018, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 17951784, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 16878062, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21550537, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20229343, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20755599, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21020972, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19839531, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21165911, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20489125, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19981034, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20520445, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20431406, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19859801, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21287771, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20007689, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20548779, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20612054, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20542071, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20934236, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20896626, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20018786, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20808803, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21316183, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20510771, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21053032, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19586045, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20693028, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21063854, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 18946470, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21034084, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19695740, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20780804, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20903212, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20260126, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20185370, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20454501, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20411874, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20693627, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20034856, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21132637, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20212118, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20836456, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19953763, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21019763, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19948793, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20616873, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20369533, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20518120, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20484687, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20707264, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20431063, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20656374, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20439778, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20047992, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20766636, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20133213, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20844947, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20045740, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20899735, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20662490, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20642257, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20855919, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20084435, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21066469, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19860366, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21034021, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20382152, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20306553, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 16929540, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21487749, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20084582, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19835333, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20669072, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20736216, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20767740, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20563991, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20621373, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20985938, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20404355, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20168038, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21215242, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20195508, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20798635, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20785715, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19906508, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20443552, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20988406, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20169035, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20996190, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20366666, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20000252, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20829579, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19760886, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21032768, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20342597, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20462483, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20424485, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20756686, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20387344, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20614956, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21074780, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20705879, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19988375, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 21038474, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20290055, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20224419, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20331710, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19283156, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20406420, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20801422, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19897572, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20279912, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20548665, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20353181, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20563182, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20325035, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20983838, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 19909477, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20646017, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 20335042, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    Egress.wasted_time.f1
+-----------------  -----------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----

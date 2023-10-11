@@ -1,0 +1,3361 @@
+Wasted Time
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 39116039, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21087545, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21186899, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21414980, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21415995, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20893257, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21014138, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20890823, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21554495, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21173211, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21011293, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21249484, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20234814, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21017128, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21086576, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20776190, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21136989, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24145975, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 71477752, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22063451, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20952907, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21069571, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20960841, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20012949, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20615098, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20915576, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20953144, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20967180, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21381227, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20706574, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20402945, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20058900, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21157241, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21123553, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21022411, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21144720, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20952812, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21268038, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21274903, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21344263, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20647985, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20936628, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20942576, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21331835, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20947311, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21270244, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21228353, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20084798, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21580510, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20000088, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20665972, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21143517, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20746677, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21339371, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21228189, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20840752, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20938965, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20945099, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21008310, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21028114, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20975394, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20753224, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20968127, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21027105, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20704820, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21121829, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20939723, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20015454, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20018972, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20891107, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20996425, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21155883, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21271859, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20014995, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21329832, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21279873, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21016971, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20379300, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21233216, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20019744, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20944158, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20835415, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21131156, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20041220, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21168140, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21225777, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21632070, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20238961, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 306800907, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 60422782, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20659554, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20025921, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21586981, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23637411, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20966472, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20019743, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22311729, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21097770, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20786226, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23698092, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20100797, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21630408, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22183970, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23490875, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20056849, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21733025, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23467431, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22929912, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20028329, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21750912, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24256390, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23889458, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20025440, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21448812, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22521823, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23614641, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22018723, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22798459, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23092578, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21673193, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22672310, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20011721, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23460553, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21419172, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21128729, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20018218, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22193754, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22772328, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23393750, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20007367, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21115697, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23006076, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24064752, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20765884, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22782403, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21130812, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20641471, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20885523, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20008631, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23426503, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22220815, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21112161, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20143856, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22701301, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20909959, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20481709, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20072012, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20546490, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20544645, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21057872, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20176539, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21072772, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21155964, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23661080, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23527998, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20290281, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21075122, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20395589, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20022816, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20843923, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20717878, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21006696, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20134893, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23631143, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22687187, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23314064, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21391827, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22154905, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20956635, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21150869, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20038664, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20136153, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22126675, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21837354, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20709056, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20041172, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21700592, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21137882, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20630381, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20034699, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20032907, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22398642, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23079894, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21614658, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20022447, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21033434, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20788643, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22036499, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20034637, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22008584, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23157208, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23056480, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20026470, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24247733, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22166048, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21031395, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22720273, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24124079, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23607070, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21440618, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20185021, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20706872, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21155690, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20614538, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20017864, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 337668175, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 434426588, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 157525060, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20029713, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 39362684, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 42754601, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28276687, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 36045874, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 34592547, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44466325, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 27072144, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 32802979, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28015013, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44511787, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 31831487, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20683888, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20000664, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 42820880, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 38830873, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20801992, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20034516, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 40956958, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 41560871, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24897076, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 39115823, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 33219833, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44339640, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 29460448, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 33475910, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24030613, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 45657848, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 36758843, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20935598, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20034257, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 43452161, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 39512991, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22686839, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20036731, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 38544872, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 40154691, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 26469760, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 38005360, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 33042507, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44943552, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 32050413, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 32898006, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24738184, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44980178, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 38127582, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20985457, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20003457, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 42591293, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 37078743, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20702600, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20025868, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 37883413, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 42664604, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28570445, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 34079042, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28712889, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44253068, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 33397744, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28657400, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20021716, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 43883055, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 35144222, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28475059, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20204003, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 41818901, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 42307069, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 25375840, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 39211276, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 37675539, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 46008341, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28281188, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 34124275, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 30761377, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 46276905, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 31866953, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 27946827, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20042862, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 43738090, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 40705996, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 21926522, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20006684, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 41208382, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 40851456, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 25865030, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 37319354, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 35892988, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 43895075, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 31346536, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 36265656, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28054457, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 44461668, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 30393420, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 30992835, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20000416, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 43998140, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 36587832, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20550615, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20294719, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 41655143, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 42267670, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22443190, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 38744474, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 34796977, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 43880603, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 28562197, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 37286367, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24268812, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 45028273, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 34754819, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20953805, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20048644, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 45542496, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 39139174, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20648157, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 20263793, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 22436325, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 24742422, 0]
+
+
+----- wasted_time Dump End -----
+----- wasted_time Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_time.f1
+-----------------  ------------------------------------------
+0x00000000         [0, 0, 23795607, 0]
+
+
+----- wasted_time Dump End -----

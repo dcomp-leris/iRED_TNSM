@@ -1,0 +1,7 @@
+----- drop_pkt Dump Start -----
+$COUNTER_INDEX      $COUNTER_SPEC_PKTS
+----------------  --------------------
+0x00000108                       17904
+
+
+----- drop_pkt Dump End -----

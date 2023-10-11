@@ -1,0 +1,6 @@
+----- mark_ecn_pkt Dump Start -----
+$COUNTER_INDEX    $COUNTER_SPEC_PKTS
+----------------  --------------------
+
+
+----- mark_ecn_pkt Dump End -----

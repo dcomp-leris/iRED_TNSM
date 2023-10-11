@@ -1,0 +1,3361 @@
+Wasted memory
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 0, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
+----- wasted_memory Dump Start -----
+$REGISTER_INDEX    SwitchEgress.codel_egress.wasted_memory.f1
+-----------------  --------------------------------------------
+0x00000000         [0, 0, 1500, 0]
+
+
+----- wasted_memory Dump End -----
